@@ -31,5 +31,8 @@
       "server": "server/main.js"
     },
     "testModule": "tests/main.js"
+  },
+  "engines":{
+    "node":"v8.15.1"
   }
 }
