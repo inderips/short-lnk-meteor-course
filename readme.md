@@ -1,6 +1,6 @@
 # Short Lnk
 
-This is a lonk shorterner built on Meteor and React for my new course
+This is a link shorterner built on Meteor and React for my new course
 
 ## Authors
 
